@@ -1,0 +1,6 @@
+Nessa aula foi  mostrado como criar um reposirório no gitHub, foi mostrado alguns comandos como:
+git clone - usado para clonar um repositório no pc e poder trabalhar nele
+git status - para ver as alterações feitas na working area
+git add - para dicionar os arquivos ao staged/ index area
+git commit - para adicionar ao repositório local as alterações 
+git push para subir para o repositório remoto os arquivos alterados 
